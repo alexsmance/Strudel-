@@ -7,11 +7,10 @@ To play or update press:
 Ctrl + Enter
 
 To Pause press:
-Ctrl + .
+Ctrl +1 .
 
 To Comment a line press:
-Ctrl + /
-*/
+`Ctrl +`
 
 /* 
 Drum Machine/Sequencer
